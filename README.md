@@ -1,4 +1,4 @@
-line at: https://frontend-quiz-site.netlify.app/
+Live at: https://frontend-quiz-site.netlify.app/
 
 Frontend Quiz App, from Frontend Mentor
 
