@@ -157,7 +157,7 @@ function SubmitBut({
       <button
         value={submitButtonState}
         onClick={handleClick}
-        className="w-full hover:bg-italicd transition duration-300 ease-in-out tablet:w-[48%] bg-blue text-white py-2 h-[56px] mobile:h-[86px] font-bold text-[16px] mobile:text-[28px] exsm:text-[18px] rounded-[12px] capitalize mobile:rounded-[20px]"
+        className="w-full desktop:hover:bg-italicd transition duration-300 ease-in-out tablet:w-[48%] bg-blue text-white py-2 h-[56px] mobile:h-[86px] font-bold text-[16px] mobile:text-[28px] exsm:text-[18px] rounded-[12px] capitalize mobile:rounded-[20px]"
       >
         {submitButtonState}
       </button>

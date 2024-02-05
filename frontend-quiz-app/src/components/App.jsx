@@ -79,7 +79,7 @@ function App() {
       >
         <div className="bg-mbgl dark:bg-mbgd mobile:bg-tbgl mobile:dark:bg-tbgd desktop:bg-dbgl desktop:dark:bg-dbgd bg-cover  w-full h-full min-h-screen">
           <div
-            className={`flex items-center flex-wrap gap-3 max-w-[1400px] ${subjectCont} mx-auto  py-[16px] mobile:py-[40px] tablet:pb-[75px] tablet:pt-[70px]  px-[5vw] exsm:px-[24px] mobile:px-[44px]`}
+            className={`flex items-center flex-wrap gap-3 max-w-[1400px] ${subjectCont} mx-auto  py-[35px] pb-[20px] mobile:py-[40px] tablet:pb-[75px] tablet:pt-[70px]  px-[5vw] exsm:px-[24px] mobile:px-[44px]`}
           >
             <div
               className={`flex items-center gap-3 mobile:gap-[20px] ${subject}`}
